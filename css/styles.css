@@ -1,0 +1,17 @@
+:root{
+    --background-primary-color: #FFFFFF;
+    --background-secundary-color: #F5F5F5;
+    --background-tertiary-color: #000000;
+
+    --button-primary-color: #8F0101;
+    --buttion-secundary-color: #B81515;
+
+    --text-primary-color: #222222;
+    --text-secundary-color: #FFFFFF;       
+    --text-tertiary-color: #222222;
+}
+
+h1{
+    color: var(--button-primary-color);
+}
+
